@@ -8,6 +8,10 @@ Features
  > Compositor (Picom) for advanced window effects and transparency.
  > Customizable status bar (Polybar) for displaying system information and launching applications.
 
+Rice 
+ Rice1
+      https://github.com/vkt00/i3_-rice/blob/main/i3_rice.png
+
 Prerequisites
 
 >    Arch Linux or a similar distribution with i3wm, Picom, and Polybar packages available.
