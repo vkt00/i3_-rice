@@ -10,9 +10,9 @@ Features
 
 Rice 
  Rice1
-      https://github.com/vkt00/i3_-rice/blob/main/i3_rice.png
 
-Prerequisites
+Prerehttps://github.com/vkt00/i3_-rice/blob/main/i3_rice.png![Pic_29052024-232519](https://github.com/vkt00/i3_-rice/assets/169820471/59607da3-d115-4181-baa2-b5c2e5b86a01)
+quisites
 
 >    Arch Linux or a similar distribution with i3wm, Picom, and Polybar packages available.
 >    Basic understanding of Linux and command line.
