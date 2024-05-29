@@ -8,7 +8,6 @@ Features
  > Compositor (Picom) for advanced window effects and transparency.
  > Customizable status bar (Polybar) for displaying system information and launching applications.
 
-Rice 
  Rice1
 ![Pic_29052024-232519](https://github.com/vkt00/i3_-rice/assets/169820471/bf335854-0f55-40a2-a0ba-75c5ee2a91cf)
 
