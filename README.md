@@ -20,6 +20,8 @@ Polybar
 ![Polybar](https://github.com/vkt00/i3_-rice/assets/169820471/26740f5f-3531-4571-8f5a-f6cd58990011)
 
 
+Enable and Disable the Module as you needed
+
 Prequisites
 
 >    Arch Linux or a similar distribution with i3wm, Picom, and Polybar packages available.
