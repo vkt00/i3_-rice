@@ -12,6 +12,13 @@ Rice
  Rice1
 ![Pic_29052024-232519](https://github.com/vkt00/i3_-rice/assets/169820471/bf335854-0f55-40a2-a0ba-75c5ee2a91cf)
 
+ Rice 2
+ ![i3_rice](https://github.com/vkt00/i3_-rice/assets/169820471/e63cd3c0-efd6-40c9-b1f4-d88c8a68acf4)
+
+
+Polybar
+![Polybar](https://github.com/vkt00/i3_-rice/assets/169820471/26740f5f-3531-4571-8f5a-f6cd58990011)
+
 
 Prequisites
 
