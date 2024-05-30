@@ -28,7 +28,7 @@ Prequisites
 
 Installation
 
-    Clone this repository to your home directory:
+    Clone this repository to your .config directory:
     https://github.com/vkt00/i3_-rice.git
 
 
